@@ -82,12 +82,10 @@ redis
 ## 交流群
 
 
-演示站：
-[https://chat.mosha.cloud/app-store](https://chat.mosha.cloud/app-store)
+演示站(已关闭），自行部署玩耍！
 
 
 
-售后群：953199214 
 
 
 
